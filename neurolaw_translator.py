@@ -1,4 +1,6 @@
-import re
+# Test case for httpimport
+# https://github.com/operatorequals/httpimport/
 
-def temporal_expressions_pt_to_eng(text_in_pt):
-    return "teste"
+def hello():
+  print("Hello NEURO")
+  
